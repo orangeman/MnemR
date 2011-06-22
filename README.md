@@ -1,12 +1,12 @@
 MnemR
 =====
 
-MnemR is a mix of **memo**-, **brainstorming**- and **learning**-tool.<br/>
+**MnemR** is a mix of **memo**-, **brainstorming**- & **learning**-tool.<br/>
 <br/>
-It uses scraps of **sound**, **image** and **text** to help you:<br/>
+It uses scraps of **sound**, **image** & **text** to help you:<br/>
 -- capture thoughts & ideas<br/>
 -- track relevant issues<br/>
--- memorize longterm<br/>
+-- memorize & study content<br/>
 <br/><br/>
 
 GET STARTED
